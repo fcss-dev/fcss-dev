@@ -20,23 +20,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-```
-
-
-```
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fcss-dev&theme=radical)
-```
-
-
-```
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcss-dev&layout=compact&theme=radical)
-```
-
-
-```
-
-
 
 
 
